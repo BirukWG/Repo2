@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 7A0C-F85B
-
- Directory of C:\Users\gebrebi\OneDrive - Crowley\Desktop\MyProject
-
-05/30/2024  04:21 PM    <DIR>          .
-05/30/2024  04:21 PM    <DIR>          ..
-05/30/2024  04:21 PM               140 test1.txt
-               1 File(s)            140 bytes
-               2 Dir(s)  255,042,588,672 bytes free
+change
